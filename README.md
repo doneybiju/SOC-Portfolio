@@ -81,6 +81,10 @@ Reports are located in the `/reports` directory.
   Critical vulnerability exploitation leading to remote code execution and persistence.
   [View Report](./reports/incident-1-sharepoint-rce.md)
 
+- **Phishing Attack Leading to Malware (Lumma Stealer)**  
+  Social engineering attack resulting in payload execution via mshta and system compromise.  
+  [View Report](./reports/incident-2-phishing-lumma-stealer.md)
+
 ---
 
 ## Detection Engineering
