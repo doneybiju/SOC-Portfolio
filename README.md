@@ -75,6 +75,14 @@ Reports are located in the `/reports` directory.
 
 ---
 
+## Featured Incident Reports
+
+- **SharePoint RCE Attack (CVE-2025-53770)**
+  Critical vulnerability exploitation leading to remote code execution and persistence.
+  [View Report](./reports/incident-1-sharepoint-rce.md)
+
+---
+
 ## Detection Engineering
 
 The `/detections` folder contains:
