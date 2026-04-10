@@ -85,6 +85,14 @@ Reports are located in the `/reports` directory.
   Social engineering attack resulting in payload execution via mshta and system compromise.  
   [View Report](./reports/incident-2-phishing-lumma-stealer.md)
 
+- **Zero-Click RTF Exploit (CVE-2025-21298)**  
+  Critical exploitation using regsvr32 (Squiblydoo) for remote payload execution.  
+  [View Report](./reports/incident-3-ole-rce-regsvr32.md)
+
+- **Typosquatting Phishing Attack (MX Record Abuse)**  
+  Domain impersonation attack leveraging MX record changes to deliver phishing emails.  
+  [View Report](./reports/incident-4-typosquatting-phishing-mx-change.md)
+
 ---
 
 ## Detection Engineering
