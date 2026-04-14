@@ -93,6 +93,14 @@ Reports are located in the `/reports` directory.
   Domain impersonation attack leveraging MX record changes to deliver phishing emails.  
   [View Report](./reports/incident-4-typosquatting-phishing-mx-change.md)
 
+- **Unauthorized VPN Access Attempt (Credential Compromise)**  
+  Detection of stolen credentials with MFA preventing full system access.  
+  [View Report](./reports/incident-5-vpn-unauthorized-country.md)
+
+- **PAN-OS Command Injection (CVE-2024-3400)**  
+  Exploitation of firewall vulnerability leading to command execution and attempted data exfiltration.  
+  [View Report](./reports/incident-6-panos-command-injection.md)
+
 ---
 
 ## Detection Engineering
