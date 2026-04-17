@@ -101,6 +101,10 @@ Reports are located in the `/reports` directory.
   Exploitation of firewall vulnerability leading to command execution and attempted data exfiltration.  
   [View Report](./reports/incident-6-panos-command-injection.md)
 
+- **SQL Injection Leading to Full System Compromise**  
+  Automated SQLi attack resulting in RCE, privilege escalation, and persistence.  
+  [View Report](./reports/incident-7-sqli-rce-persistence.md)
+
 ---
 
 ## Detection Engineering
