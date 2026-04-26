@@ -105,6 +105,10 @@ Reports are located in the `/reports` directory.
   Automated SQLi attack resulting in RCE, privilege escalation, and persistence.  
   [View Report](./reports/incident-7-sqli-rce-persistence.md)
 
+- **LockBit Ransomware Threat Intelligence Report**  
+  Strategic analysis of ransomware operations, TTPs, and detection strategies.  
+  [View Report](./reports/threat-intel-ransomware-lockbit.md)
+
 ---
 
 ## Detection Engineering
